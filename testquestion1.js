@@ -4,6 +4,6 @@ function setup(){
     noStroke();
 }
 function draw(){
-    noFill("red")
-    circle(50, 100, 100)
+    noFill();
+    circle(50, 100, 100);
 }
