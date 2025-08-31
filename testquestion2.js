@@ -1,4 +1,5 @@
-let x = 
+let x = 60
+let y = 60
 function setup(){
     createCanvas(600, 600);
     background("grey");
