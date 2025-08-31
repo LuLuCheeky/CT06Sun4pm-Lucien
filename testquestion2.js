@@ -14,6 +14,6 @@ function draw(){
         circle(x, y, 50)
         x = fixedX * count
         y = fixedY * count
-        colour = 
+        colour = colour - (count)
     } 
 }
