@@ -2,11 +2,11 @@ function setup(){
     createCanvas(600, 400);
     background("white");
     noStroke();
-    stroke(255,0,0);
+    stroke(220,0,0);
     noFill();
     strokeWeight(10);
 }
 function draw(){
     circle(100, 200, 100);
-    triangle(250, 350, 150, 250, 200, 200);
+    triangle(100, 100, 300, 100, 200, 300);
 }
