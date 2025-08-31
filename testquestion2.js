@@ -11,6 +11,6 @@ function draw(){
     for (let count = 1; count < 11; count++) {
         circle(x, y, 50)
         x = fixedX * count
-        y = y * count
+        y = fixedY * count
     } 
 }
