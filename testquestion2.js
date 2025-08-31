@@ -1,6 +1,6 @@
-let x = 20
-let y = 20
-let fixedX = 20
+let x = 40
+let y = 40
+let fixedX = 40
 let fixedY = 20
 function setup(){
     createCanvas(600, 600);
