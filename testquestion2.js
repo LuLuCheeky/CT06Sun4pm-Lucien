@@ -4,5 +4,7 @@ function setup(){
 }
 
 function draw(){
-    
+    for (let count = 1; count < 6; count++) {
+        print(count);
+    } 
 }
