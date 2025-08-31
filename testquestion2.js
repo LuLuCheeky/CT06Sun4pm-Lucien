@@ -14,7 +14,6 @@ function draw(){
         circle(x, y, 50)
         x = fixedX * count
         y = fixedY * count
-        colour = colour - 50
-        console.log(colour)
+        colour = colour - 10
     } 
 }
