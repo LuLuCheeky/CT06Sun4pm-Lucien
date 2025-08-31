@@ -1,7 +1,7 @@
 let x = 50
-let y = 40
-let fixedX = 40
-let fixedY = 40
+let y = 50
+let fixedX = 50
+let fixedY = 50
 function setup(){
     createCanvas(600, 600);
     background("grey");
