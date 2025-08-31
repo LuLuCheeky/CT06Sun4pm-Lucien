@@ -9,6 +9,6 @@ function draw(){
     for (let count = 1; count < 11; count++) {
         circle(x, y, 50)
         x = x * count
-        
+        y = y * count
     } 
 }
