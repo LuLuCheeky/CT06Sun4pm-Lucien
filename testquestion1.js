@@ -5,5 +5,5 @@ function setup(){
 }
 function draw(){
     fill("red")
-    circle(20, 100, 100)
+    circle(50, 100, 100)
 }
