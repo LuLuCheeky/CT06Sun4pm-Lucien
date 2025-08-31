@@ -2,7 +2,7 @@ let x = 50
 let y = 50
 let fixedX = 50
 let fixedY = 50
-let colour = 1
+let colour = 225
 function setup(){
     createCanvas(600, 600);
     background("grey");
