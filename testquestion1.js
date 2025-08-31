@@ -1,3 +1,3 @@
 function setUp(){
-    createCanvas
+    createCanvas(600, 400)
 }
