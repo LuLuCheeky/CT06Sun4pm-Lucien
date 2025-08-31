@@ -10,7 +10,7 @@ function setup(){
 
 function draw(){
     for (let count = 1; count < 11; count++) {
-        fill()
+        fill(colour, colour, colour)
         circle(x, y, 50)
         x = fixedX * count
         y = fixedY * count
