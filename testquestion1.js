@@ -3,5 +3,5 @@ function setup(){
     background("white");
 }
 function draw(){
-    circle("100")
+    circle(100,20)
 }
