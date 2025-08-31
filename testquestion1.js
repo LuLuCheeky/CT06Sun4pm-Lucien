@@ -4,8 +4,9 @@ function setup(){
     noStroke();
     stroke(220,0,0);
     noFill();
-    strokeWeight()
+    strokeWeight(10);
 }
 function draw(){
     circle(100, 200, 100);
+    
 }
