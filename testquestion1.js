@@ -8,5 +8,5 @@ function setup(){
 }
 function draw(){
     circle(100, 200, 100);
-    triangle(250, 350, 150, 250, 50,);
+    triangle(250, 350, 150, 250, 100, 100);
 }
