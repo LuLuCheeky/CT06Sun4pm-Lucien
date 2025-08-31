@@ -3,5 +3,6 @@ function setup(){
     background("white");
 }
 function draw(){
+    fill("red")
     circle(100,20)
 }
