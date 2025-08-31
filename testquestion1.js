@@ -1,7 +1,7 @@
 function setup(){
     createCanvas(600, 400);
     background("white");
-    noStroke;
+    noStroke();
 }
 function draw(){
     fill("red")
