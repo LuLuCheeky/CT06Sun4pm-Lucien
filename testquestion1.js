@@ -2,7 +2,7 @@ function setup(){
     createCanvas(600, 400);
     background("white");
     noStroke();
-    stroke(220,0,0);
+    stroke(255,0,0);
     noFill();
     strokeWeight(10);
 }
