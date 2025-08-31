@@ -5,6 +5,6 @@ function setup(){
 }
 function draw(){
     noFill();
-    circle(50, 100, 100);
-    stroke()
+    circle(100, 100, 100);
+    stroke(220,0,0);
 }
