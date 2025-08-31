@@ -15,5 +15,6 @@ function draw(){
         x = fixedX * count
         y = fixedY * count
         colour = colour - 50
+        console
     } 
 }
